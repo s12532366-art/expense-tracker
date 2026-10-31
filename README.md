@@ -1,13 +1,16 @@
-# expense-tracker
-A personal expense tracking web application built with PHP, MySQL, and Bootstrap for team version control practice.
-## Team Members
- Student A: Project Admin & Frontend Developer
- Role D: Backend Developer
- Role C: Database & JS Scripting
+# Expense Tracker Project
 
-## How to Run the Project
-1. Start WAMP Server and open phpMyAdmin: `http://localhost/phpmyadmin`.
-2. Import database script from `database/schema.sql`.
-3. Copy `config.example.php` to `config.php` and set your local DB password if any.
-4. Open your browser and navigate to:
+A lightweight web application for tracking daily personal expenses, calculating totals, and visualizing spending distributions by category.
+
+ Team Members
+ Student A: Team Lead, Frontend Developer & Git Admin
+ Student D: Backend Developer & Database Integration
+
+(Note: Project completed by a 2-member team following the departure of Member C)*
+
+How to Run the Project
+ Start WAMP Server and open phpMyAdmin: `http://localhost/phpmyadmin`.
+ Import database script from `database/schema.sql`.
+ Copy `config.example.php` to `config.php` and set your local DB password if any.
+ Open your browser and navigate to:
    `http://localhost/expense-tracker/public/`
