@@ -1,7 +1,7 @@
 # expense-tracker
 A personal expense tracking web application built with PHP, MySQL, and Bootstrap for team version control practice.
 ## Team Members
-- Role A: Frontend Developer & Git Admin
+- student d : backend & database
 - Role D: Backend Developer
 - Role C: Database & JS Scripting
 
