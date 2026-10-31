@@ -1,9 +1,9 @@
 # expense-tracker
 A personal expense tracking web application built with PHP, MySQL, and Bootstrap for team version control practice.
 ## Team Members
-- Role A: Frontend Developer & Git Admin
-- Role D: Backend Developer
-- Role C: Database & JS Scripting
+ Student A: Project Admin & Frontend Developer
+ Role D: Backend Developer
+ Role C: Database & JS Scripting
 
 ## How to Run the Project
 1. Start WAMP Server and open phpMyAdmin: `http://localhost/phpmyadmin`.
