@@ -1,4 +1,4 @@
-<?php
+<?php echo "THIS IS A BROKEN COMMIT BUG"; die(); ?> 
 require_once __DIR__ . '/../includes/db.php';
 require_once __DIR__ . '/../includes/header.php';
 
